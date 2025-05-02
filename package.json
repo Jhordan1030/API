@@ -8,8 +8,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhordan1030/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jhordan1030/API/issues"
+  },
+  "homepage": "https://github.com/Jhordan1030/API#readme",
+  "description": ""
 }
